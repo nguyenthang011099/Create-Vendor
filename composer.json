@@ -1,19 +1,15 @@
 {
-  "name": "thang/psr4",
-  "description": "basic package",
-  "type": "project",
-  "license": "no",
-  "authors": [
-    {
-      "name": "nguyen thang",
-      "email": "nguyennthang011099.hust@gmail.com"
-    }
-  ],
-  "minimum-stability": "dev",
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "vendor\\": "src/"
-    }
-  }
+    "name": "thang/psr4",
+    "description": "basic package",
+    "type": "project",
+    "license": "no",
+    "authors": [
+        {
+            "name": "nguyen thang",
+            "email": "nguyennthang011099.hust@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+	
 }
